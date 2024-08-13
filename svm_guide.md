@@ -1,5 +1,7 @@
 # Understanding Support Vector Machines (SVM): A Comprehensive Guide with Python Implementation
 
+### I have attached the [Google Collab Notebook](https://colab.research.google.com/drive/1IN7uUwBidb7UuZ5R_XYJA7ZsYa1K9G2_?usp=sharing)
+
 ## Introduction to Support Vector Machines (SVM)
 
 Support Vector Machines (SVM) is a powerful supervised machine learning algorithm used for both classification and regression tasks. Initially developed for binary classification problems, SVM aims to find the optimal hyperplane that separates data points from different classes with the maximum margin.
